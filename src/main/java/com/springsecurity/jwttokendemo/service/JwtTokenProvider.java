@@ -61,7 +61,6 @@ public boolean validateToken(String token){
 
 }
 
-
 public String generateSecretKey() {
         // length means (32 bytes are required for 256-bit key)
         int length = 32; 
